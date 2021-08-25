@@ -1,0 +1,76 @@
+h1{
+	
+    font-size: xxx-large;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+	width: fit-content;
+	margin-left:auto;
+	margin-right: auto;
+	padding: 0 5%;
+}
+h2
+{
+    
+    font-size: 170%;
+    font-family: 'Open Sans', sans-serif;
+    color: #004aad;
+    
+}
+body
+{
+    margin:0;
+    background-color: #ff66c4;
+    text-align: center;
+}
+.convert
+{
+	border-radius: 10px;
+    width:fit-content;
+    margin: auto;
+    background-color: #d9d9d9;
+    height:fit-content;
+	padding: 0.5% 2% 4%;
+	overflow: hidden;
+	border: solid brown;
+}
+
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #e184f3;
+	background:linear-gradient(to bottom, #c123de 5%, #a20dbd 100%);
+	background-color:#c123de;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:8px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #9b14b3;
+	margin: 3%;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #a20dbd 5%, #c123de 100%);
+	background-color:#a20dbd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.resetbutton
+{
+    padding: 8px 18px;
+}
+input{
+	border-radius: 6px;
+	display: block;
+	width:fit-content;
+	height: 40px;
+	font-size: 	20px;
+	margin: 10px auto ;
+}
+span{
+	display: block;
+}
